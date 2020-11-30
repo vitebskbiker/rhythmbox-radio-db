@@ -106,13 +106,6 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
-    <title>Baby FM</title>
-    <genre>Детская музыка</genre>
-    <location>https://a5.radioheart.ru:8012/RH1916</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Первое радио FM1</title>
     <genre>Джаз/Блюз</genre>
     <location>https://radiokrug.ru/radio/radio1odessa/icecast.audio</location>
@@ -199,7 +192,7 @@
   <entry type="iradio">
     <title>Jazz - Imagine Radio</title>
     <genre>Джаз/Блюз</genre>
-    <location>http://212.116.112.147:8000/full_stream128.mp3</location>
+    <location>https://top.radiosolo.ru/radio/jazz_imagine/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -242,13 +235,6 @@
     <title>More.FM Fratelli</title>
     <genre>Джаз/Блюз</genre>
     <location>https://cast.more.fm/fratelli</location>
-    <bitrate>256</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>More.FM Jazz</title>
-    <genre>Джаз/Блюз</genre>
-    <location>https://cast.more.fm/jazz</location>
     <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -785,13 +771,6 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
-    <title>KAIF FM</title>
-    <genre>Лёгкая музыка</genre>
-    <location>https://stream.radio.co/s00d0f22d8/listen</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Light - Европа Плюс</title>
     <genre>Лёгкая музыка</genre>
     <location>https://europaplus.hostingradio.ru/ep-light128.mp3</location>
@@ -1058,18 +1037,18 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Клубер FM</title>
-    <genre>Музыка для души</genre>
-    <location>https://cast.more.fm/cluber</location>
-    <bitrate>256</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Лірика - Країна ФМ</title>
     <genre>Музыка для души</genre>
     <location>https://radiokrug.ru/radio/krainafmlyrica/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Музыка без слов - Радио Монте-Карло</title>
+    <genre>Музыка для души</genre>
+    <location>https://montecarlo.hostingradio.ru/muzykabezslov96.aacp</location>
+    <bitrate>96</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>Наедине с музыкой - Радио 7 на семи холмах</title>
@@ -1126,6 +1105,13 @@
     <location>https://myradio24.org/8795</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Delish Deep Radio</title>
+    <genre>Музыка для души</genre>
+    <location>https://getradio.me/delishdeep</location>
+    <bitrate>64</bitrate>
+    <media-type>audio/aac</media-type>
   </entry>
   <entry type="iradio">
     <title>Instrumental - 101.ru</title>
@@ -1240,13 +1226,6 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
-    <title>Большая Балашиха</title>
-    <genre>Новости</genre>
-    <location>http://188.254.8.70:8000/live</location>
-    <bitrate>128 kbps</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Вголос FM</title>
     <genre>Новости</genre>
     <location>http://ua.uar.net:8000/vgolos</location>
@@ -1286,13 +1265,6 @@
     <genre>Новости</genre>
     <location>https://online.gorvolna.ru:8443/gorvolna</location>
     <bitrate>192</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>Дарик Радио</title>
-    <genre>Новости</genre>
-    <location>https://darikradio.by.host.bg:8000/S2-128</location>
-    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -1338,17 +1310,17 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Незалежність</title>
-    <genre>Новости</genre>
-    <location>http://rad.radio-n.com:8000/;</location>
-    <bitrate>41</bitrate>
-    <media-type>audio/aacp</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Новини - Країна ФМ</title>
     <genre>Новости</genre>
     <location>http://krainafm.com.ua/xml/news.mp3</location>
     <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Первый национальный канал Белорусского радио</title>
+    <genre>Новости</genre>
+    <location>https://stream.hoster.by/tvrbyradio/radio1/icecast.audio</location>
+    <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -1371,6 +1343,20 @@
     <location>https://radiokrug.ru/radio/igi/icecast.audio</location>
     <bitrate>96</bitrate>
     <media-type>audio/aacp</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Беларусь</title>
+    <genre>Новости</genre>
+    <location>https://stream.hoster.by/tvrbyradio/belarusfm/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Большая Балашиха</title>
+    <genre>Новости</genre>
+    <location>https://top.radiosolo.ru/radio/bbradio/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Радио Движение</title>
@@ -1527,6 +1513,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радіо Незалежність</title>
+    <genre>Новости</genre>
+    <location>https://top.radiosolo.ru/radio/nezalezhnist/icecast.audio</location>
+    <bitrate>48</bitrate>
+    <media-type>audio/aacp</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Севастополь FM</title>
     <genre>Новости</genre>
     <location>https://air.volna.top/SFM</location>
@@ -1611,6 +1604,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Polskie Radio Jedynka</title>
+    <genre>Новости</genre>
+    <location>https://top.radiosolo.ru/radio/jedynkapl/icecast.audio</location>
+    <bitrate>192</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>RADIO TALK</title>
     <genre>Новости</genre>
     <location>https://talk-on.ru:8443/radio_mount</location>
@@ -1651,13 +1651,6 @@
     <location>https://2020fm.ru:8443/live</location>
     <bitrate>192</bitrate>
     <media-type>application/ogg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>4</title>
-    <genre>Поп-музыка</genre>
-    <location>http://icecast.err.ee/raadio4.mp3</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Авторадио Казахстан</title>
@@ -1720,6 +1713,13 @@
     <genre>Поп-музыка</genre>
     <location>https://radiokrug.ru/radio/alphaby/icecast.audio</location>
     <bitrate>160</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Апекс Радио</title>
+    <genre>Поп-музыка</genre>
+    <location>https://eapps-cs.herokuapp.com/http://webcast.apexradio.ru:8000/NvkzMp3</location>
+    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -1807,13 +1807,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Большая Балашиха</title>
-    <genre>Поп-музыка</genre>
-    <location>http://188.254.8.70:8000/live</location>
-    <bitrate>128 kbps</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Большое Радио</title>
     <genre>Поп-музыка</genre>
     <location>https://listen2.myradio24.com/8286</location>
@@ -1849,9 +1842,16 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Версия FM</title>
+    <genre>Поп-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/versiyafm/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Визави FM</title>
     <genre>Поп-музыка</genre>
-    <location>http://94.250.249.126:8000/radio</location>
+    <location>https://top.radiosolo.ru/radio/vizavifm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -1933,13 +1933,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Град FM</title>
-    <genre>Поп-музыка</genre>
-    <location>http://radio.grad.ua:8000/radio1-128</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Гуляй Радіо</title>
     <genre>Поп-музыка</genre>
     <location>https://online.radioplayer.ua/GuliayRadio_HD</location>
@@ -1982,9 +1975,9 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Дуже</title>
+    <title>Дуже радио</title>
     <genre>Поп-музыка</genre>
-    <location>http://178.136.125.252:8000/duzhefm</location>
+    <location>https://top.radiosolo.ru/radio/duzhefm/icecast.audio</location>
     <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -2010,18 +2003,11 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Ёж</title>
-    <genre>Поп-музыка</genre>
-    <location>http://misato.ru-hoster.com:8016/stream</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Жара FM</title>
     <genre>Поп-музыка</genre>
-    <location>https://live2.zharafm.ru/live</location>
-    <bitrate>96</bitrate>
-    <media-type>application/aacp</media-type>
+    <location>https://top.radiosolo.ru/radio/zharafm/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>Железо FM</title>
@@ -2140,6 +2126,13 @@
     <genre>Поп-музыка</genre>
     <location>https://radiokrug.ru/radio/klassnoe/icecast.audio</location>
     <bitrate>160</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Компас FM</title>
+    <genre>Поп-музыка</genre>
+    <location>https://radio.mil.by/live</location>
+    <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -2311,13 +2304,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Милицейская Волна</title>
-    <genre>Поп-музыка</genre>
-    <location>https://radiomv.hostingradio.ru:80/radiomv256.mp3</location>
-    <bitrate>256</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Мин Кыял FM</title>
     <genre>Поп-музыка</genre>
     <location>https://radiosolo.ru/radio/minkiyal/icecast.audio</location>
@@ -2356,13 +2342,6 @@
     <title>МЭТР FM</title>
     <genre>Поп-музыка</genre>
     <location>http://178.208.82.95:8000/metrfm</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>На Востоке</title>
-    <genre>Поп-музыка</genre>
-    <location>http://online.958fm.ru:8000/RADIO958FM</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -2421,13 +2400,6 @@
     <location>https://nvkfm.ru/online</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>Незалежність</title>
-    <genre>Поп-музыка</genre>
-    <location>http://rad.radio-n.com:8000/;</location>
-    <bitrate>41</bitrate>
-    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>Ник FM</title>
@@ -2500,10 +2472,10 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Первое городское</title>
+    <title>Первое городское радио</title>
     <genre>Поп-музыка</genre>
-    <location>http://195.138.92.174:8001/live</location>
-    <bitrate>320</bitrate>
+    <location>https://top.radiosolo.ru/radio/1odua/icecast.audio</location>
+    <bitrate>160</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -2754,7 +2726,7 @@
   <entry type="iradio">
     <title>Радио Актан</title>
     <genre>Поп-музыка</genre>
-    <location>http://195.191.78.200:8081/mp</location>
+    <location>https://top.radiosolo.ru/radio/aktan/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -2853,6 +2825,13 @@
     <title>Радио Болид</title>
     <genre>Поп-музыка</genre>
     <location>https://icecast-bulteam.cdnvideo.ru/bolid128</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Большая Балашиха</title>
+    <genre>Поп-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/bbradio/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -2972,6 +2951,13 @@
     <title>Радио Душевный восторг</title>
     <genre>Поп-музыка</genre>
     <location>https://myradio24.org/74127</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Ёж</title>
+    <genre>Поп-музыка</genre>
+    <location>https://misato.ru-hoster.com:8016/stream</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3102,6 +3088,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радио Мая</title>
+    <genre>Поп-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/maia/icecast.audio</location>
+    <bitrate>320</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радио Мегахит</title>
     <genre>Поп-музыка</genre>
     <location>https://listen.megahit.online/megamp128</location>
@@ -3168,6 +3161,13 @@
     <title>Радио Мята The Hits Channel</title>
     <genre>Поп-музыка</genre>
     <location>https://radio.dline-media.com/myata_hits</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио На Востоке</title>
+    <genre>Поп-музыка</genre>
+    <location>http://online.958fm.ru:8000/RADIO958FM</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3272,7 +3272,7 @@
   <entry type="iradio">
     <title>Радио Победы</title>
     <genre>Поп-музыка</genre>
-    <location>http://178.46.155.73:8000/rp</location>
+    <location>https://top.radiosolo.ru/radio/pobeda/icecast.audio</location>
     <bitrate>96</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3287,6 +3287,13 @@
     <title>Радио Полет</title>
     <genre>Поп-музыка</genre>
     <location>https://radiokrug.ru/radio/polet1033/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Посад</title>
+    <genre>Поп-музыка</genre>
+    <location>https://a6.radioheart.ru:9026/RH4122</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3356,7 +3363,7 @@
   <entry type="iradio">
     <title>Радио Ранак</title>
     <genre>Поп-музыка</genre>
-    <location>http://93.84.85.122:8000/ranak</location>
+    <location>https://top.radiosolo.ru/radio/ranak/icecast.audio</location>
     <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3496,7 +3503,7 @@
   <entry type="iradio">
     <title>Радио Сокаль</title>
     <genre>Поп-музыка</genre>
-    <location>http://online.sokal.lviv.ua:8000/sokalfm96.mp3</location>
+    <location>https://top.radiosolo.ru/radio/sokalfm/icecast.audio</location>
     <bitrate>96</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3517,8 +3524,15 @@
   <entry type="iradio">
     <title>Радио Столица 100.0 FM</title>
     <genre>Поп-музыка</genre>
-    <location>http://eu2.radioboss.fm:8080/stream</location>
+    <location>https://top.radiosolo.ru/radio/stolicza-100-fm/icecast.audio</location>
     <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Столица Беларусь</title>
+    <genre>Поп-музыка</genre>
+    <location>https://stream.hoster.by/tvrbyradio/stalica/icecast.audio</location>
+    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -3566,7 +3580,7 @@
   <entry type="iradio">
     <title>Радио Темрюк</title>
     <genre>Поп-музыка</genre>
-    <location>http://s1.radioheart.ru:8001/radiotemryuk_128</location>
+    <location>https://top.radiosolo.ru/radio/temryuk/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3634,13 +3648,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Радио Ховар</title>
-    <genre>Поп-музыка</genre>
-    <location>http://193.124.66.132:8001/live</location>
-    <bitrate>56</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Радио Хорошего Настроения</title>
     <genre>Поп-музыка</genre>
     <location>https://radiosolo.ru/radio/fm1018/icecast.audio</location>
@@ -3650,7 +3657,7 @@
   <entry type="iradio">
     <title>Радио Черемхово</title>
     <genre>Поп-музыка</genre>
-    <location>https://s0.radioheart.ru:8000/RH24959</location>
+    <location>http://a9.radioheart.ru:8036/RH24959</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3741,7 +3748,7 @@
   <entry type="iradio">
     <title>Радио Fresh!</title>
     <genre>Поп-музыка</genre>
-    <location>http://193.108.24.21:8000/fresh</location>
+    <location>https://top.radiosolo.ru/radio/freshbg/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3784,6 +3791,13 @@
     <title>Радио MuzON</title>
     <genre>Поп-музыка</genre>
     <location>https://websys.olivenet.es/muzon</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Nostalgie Perm</title>
+    <genre>Поп-музыка</genre>
+    <location>https://radiokrug.ru/radio/nostalgieperm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -3893,6 +3907,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радиус FM</title>
+    <genre>Поп-музыка</genre>
+    <location>https://stream.hoster.by/tvrbyradio/radius_main/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радіо Інді.UA</title>
     <genre>Поп-музыка</genre>
     <location>https://online.radioplayer.ua/RadioIndieUA_HD</location>
@@ -3905,6 +3926,13 @@
     <location>https://online.radioplayer.ua/RadioClassic_HD</location>
     <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радіо Незалежність</title>
+    <genre>Поп-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/nezalezhnist/icecast.audio</location>
+    <bitrate>48</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>РДВ FM</title>
@@ -4320,9 +4348,9 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Яскраве</title>
+    <title>Яскраве радіо</title>
     <genre>Поп-музыка</genre>
-    <location>http://vobu.com.ua:8000/yaskrave-128</location>
+    <location>https://top.radiosolo.ru/radio/yaskrave/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -4369,16 +4397,16 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
-    <title>BBC 1</title>
+    <title>BBC Radio 1</title>
     <genre>Поп-музыка</genre>
-    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q</location>
+    <location>https://top.radiosolo.ru/radio/bbc1/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Beat FM 96.2</title>
     <genre>Поп-музыка</genre>
-    <location>http://radio.dline-media.com/beatfm</location>
+    <location>https://top.radiosolo.ru/radio/beatfm/icecast.audio</location>
     <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -4472,6 +4500,13 @@
     <location>http://46.105.180.202:8018/stream</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Dala FM</title>
+    <genre>Поп-музыка</genre>
+    <location>https://radiosolo.ru/radio/dala/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>DeeJay Greece Corfu 97.5 FM</title>
@@ -4623,7 +4658,7 @@
   <entry type="iradio">
     <title>Everest FM</title>
     <genre>Поп-музыка</genre>
-    <location>http://s0.radioheart.ru:8000/RH33499</location>
+    <location>https://s0.radioheart.ru:8000/RH33499</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -4754,13 +4789,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Kiss FM Moldova</title>
-    <genre>Поп-музыка</genre>
-    <location>https://radiosolo.ru/radio/kissmd/icecast.audio</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>KISS FM Trendz</title>
     <genre>Поп-музыка</genre>
     <location>https://online.kissfm.ua/KissFM_Trendz_HD</location>
@@ -4812,7 +4840,7 @@
   <entry type="iradio">
     <title>MelodyFM</title>
     <genre>Поп-музыка</genre>
-    <location>http://melodyfm.ru:8000/test</location>
+    <location>https://top.radiosolo.ru/radio/melodyfm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -4943,6 +4971,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Raadio 4</title>
+    <genre>Поп-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/radio4/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Radio 10</title>
     <genre>Поп-музыка</genre>
     <location>https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac</location>
@@ -5043,7 +5078,7 @@
   <entry type="iradio">
     <title>Radio N-Joy</title>
     <genre>Поп-музыка</genre>
-    <location>http://46.10.150.123/njoy.mp3</location>
+    <location>https://top.radiosolo.ru/radio/njoy/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5071,7 +5106,7 @@
   <entry type="iradio">
     <title>Radio RT</title>
     <genre>Поп-музыка</genre>
-    <location>http://radiort.rttv.ru:8000/sochirt</location>
+    <location>https://top.radiosolo.ru/radio/sochirt/icecast.audio</location>
     <bitrate>192</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5101,6 +5136,13 @@
     <genre>Поп-музыка</genre>
     <location>https://talk-on.ru:8443/radio_mount</location>
     <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Tourist</title>
+    <genre>Поп-музыка</genre>
+    <location>https://n04.radiojar.com/av2rrf6547zuv?</location>
+    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -5246,7 +5288,7 @@
   <entry type="iradio">
     <title>Univers FM</title>
     <genre>Поп-музыка</genre>
-    <location>http://87.255.90.102:9000/UniversFm</location>
+    <location>https://top.radiosolo.ru/radio/universfm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5307,6 +5349,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Канал Культура</title>
+    <genre>Разговорное радио</genre>
+    <location>https://stream.hoster.by/tvrbyradio/cultura/icecast.audio</location>
+    <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Країна Мрій - Країна ФМ</title>
     <genre>Разговорное радио</genre>
     <location>https://radiokrug.ru/radio/krainamriy/icecast.audio</location>
@@ -5358,7 +5407,7 @@
   <entry type="iradio">
     <title>Радио Благо</title>
     <genre>Разговорное радио</genre>
-    <location>http://www.radioblago.ru:3281/broadwave.mp3</location>
+    <location>https://top.radiosolo.ru/radio/blago/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5447,16 +5496,16 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Радио Фантастики</title>
-    <genre>Разговорное радио</genre>
-    <location>https://radiokrug.ru/radio/fantasy/icecast.audio</location>
-    <bitrate>112</bitrate>
-    <media-type>audio/aacp</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Радио ANNA-NEWS</title>
     <genre>Разговорное радио</genre>
     <location>https://radio.anna-news.info:8800/play</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио NA</title>
+    <genre>Разговорное радио</genre>
+    <location>http://s24.myradiostream.com:14810/listen.mp3</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5636,6 +5685,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Канал Культура</title>
+    <genre>Разная музыка</genre>
+    <location>https://stream.hoster.by/tvrbyradio/cultura/icecast.audio</location>
+    <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Классное радио | РДШ</title>
     <genre>Разная музыка</genre>
     <location>https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3</location>
@@ -5674,6 +5730,13 @@
     <title>Н-Радио</title>
     <genre>Разная музыка</genre>
     <location>http://178.47.34.174:8000/n-radio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Наше Радио kids</title>
+    <genre>Разная музыка</genre>
+    <location>https://ourradiokids.s02.radio-tochka.com:4525/stream</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -5867,6 +5930,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радио РадыМузыке</title>
+    <genre>Разная музыка</genre>
+    <location>https://stream.zeno.fm/ksuraxtgdd0uv</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радио Рыжий Сентябрь</title>
     <genre>Разная музыка</genre>
     <location>https://myradio24.org/45071</location>
@@ -5913,6 +5983,13 @@
     <genre>Разная музыка</genre>
     <location>https://s03.volnorez.com/live-app/752890</location>
     <bitrate>192</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Радио Шлягер</title>
+    <genre>Разная музыка</genre>
+    <location>http://stream.globalic.com.ua:1300/stream</location>
+    <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -5965,13 +6042,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>РадыМузыке</title>
-    <genre>Разная музыка</genre>
-    <location>http://core-lab.ru:8000/radymuz.mp3</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Русское Кино - Русское Радио</title>
     <genre>Разная музыка</genre>
     <location>https://rr-russkoekino.hostingradio.ru/russkoekino96.aacp</location>
@@ -5981,7 +6051,7 @@
   <entry type="iradio">
     <title>САЛЮТ FM</title>
     <genre>Разная музыка</genre>
-    <location>http://stream.salyutfm.ru:8000/stream</location>
+    <location>https://stream.salyutfm.ru:8005/stream</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -6497,6 +6567,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радио VEGA</title>
+    <genre>Ретро музыка</genre>
+    <location>http://stream.vegaradio.ru:8000/;?type=http&amp;nocache=576</location>
+    <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радиола</title>
     <genre>Ретро музыка</genre>
     <location>https://radiola.hostingradio.ru/radiola_sam_128.mp3</location>
@@ -6718,7 +6795,7 @@
     <genre>Ретро музыка</genre>
     <location>http://85.234.59.191:8000/stream</location>
     <bitrate>196</bitrate>
-    <media-type>audio/aac</media-type>
+    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>32 Радио</title>
@@ -7001,6 +7078,13 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радио Столица Беларусь</title>
+    <genre>Рок-музыка</genre>
+    <location>https://stream.hoster.by/tvrbyradio/stalica/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радио ЧЁ</title>
     <genre>Рок-музыка</genre>
     <location>https://pub0202.101.ru:8443/stream/personal/aacp/64/917115</location>
@@ -7071,6 +7155,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Радио VEGA</title>
+    <genre>Рок-музыка</genre>
+    <location>http://stream.vegaradio.ru:8000/;?type=http&amp;nocache=576</location>
+    <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Радио Zefirot</title>
     <genre>Рок-музыка</genre>
     <location>https://freeuk26.listen2myradio.com/live.mp3?typeportmount=s1_19290_stream_827518365</location>
@@ -7106,13 +7197,6 @@
     <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
-    <title>Рок-Омлет</title>
-    <genre>Рок-музыка</genre>
-    <location>http://radio.rock-omlet.com:8000/live</location>
-    <bitrate>192</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>РуРок - Зайцев.FM</title>
     <genre>Рок-музыка</genre>
     <location>https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3</location>
@@ -7137,6 +7221,13 @@
     <title>Самара-Максимум</title>
     <genre>Рок-музыка</genre>
     <location>https://radiosolo.ru/radio/samaramaximum/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Саров FM</title>
+    <genre>Рок-музыка</genre>
+    <location>http://streams.radiosarova.ru/radiosarovfm</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -7211,17 +7302,10 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>CAFE</title>
-    <genre>Рок-музыка</genre>
-    <location>http://radio.mv.ru:8080/Radio_Cafe</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Classic Rock - Imagine Radio</title>
     <genre>Рок-музыка</genre>
-    <location>http://212.116.112.147:8000/light_stream256.mp3</location>
-    <bitrate>256</bitrate>
+    <location>https://top.radiosolo.ru/radio/classic_rock_imagine/icecast.audio</location>
+    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -7269,7 +7353,7 @@
   <entry type="iradio">
     <title>Everest FM</title>
     <genre>Рок-музыка</genre>
-    <location>http://s0.radioheart.ru:8000/RH33499</location>
+    <location>https://s0.radioheart.ru:8000/RH33499</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -7304,8 +7388,8 @@
   <entry type="iradio">
     <title>Imagine Radio</title>
     <genre>Рок-музыка</genre>
-    <location>http://212.116.112.147:8000/full_stream256.mp3</location>
-    <bitrate>320</bitrate>
+    <location>https://top.radiosolo.ru/radio/imagine/icecast.audio</location>
+    <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -7400,10 +7484,24 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>RADIO CAFE</title>
+    <genre>Рок-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/cafe/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Radio Extasy</title>
     <genre>Рок-музыка</genre>
     <location>https://play.extasy.es</location>
     <bitrate>320</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Extreme</title>
+    <genre>Рок-музыка</genre>
+    <location>https://streamr.radioextreme.ru/stream1</location>
+    <bitrate>192</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -7484,6 +7582,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Radio Z-Rock</title>
+    <genre>Рок-музыка</genre>
+    <location>https://top.radiosolo.ru/radio/z-rock/icecast.audio</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Rock - 101.ru</title>
     <genre>Рок-музыка</genre>
     <location>https://pub0302.101.ru:8443/stream/trust/mp3/128/69</location>
@@ -7496,13 +7601,6 @@
     <location>https://air.radiorecord.ru:805/rock_320</location>
     <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>Rock - Aplus FM</title>
-    <genre>Рок-музыка</genre>
-    <location>https://s.aplus.fm/aplus_rock_64</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>ROCK - OFR.FM</title>
@@ -7648,13 +7746,6 @@
     <title>XRadio</title>
     <genre>Рок-музыка</genre>
     <location>http://stream.xradio.su:8024/mp3_128</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>Z-Rock</title>
-    <genre>Рок-музыка</genre>
-    <location>http://46.10.150.243/z-rock.mp3</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -8240,13 +8331,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>1PVK RAP</title>
-    <genre>Рэп и Хип-Хоп/R&amp;B</genre>
-    <location>http://185.121.108.10:8000/tap</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Зайцев FM RnB</title>
     <genre>Рэп и Хип-Хоп/R&amp;B</genre>
     <location>https://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3</location>
@@ -8336,6 +8420,13 @@
     <location>https://stream.ehrhiti.lv:8000/Stream_11.aac</location>
     <bitrate>64</bitrate>
     <media-type>audio/aac</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Energy Gangsta &amp; Hip-Hop</title>
+    <genre>Рэп и Хип-Хоп/R&amp;B</genre>
+    <location>https://pub0302.101.ru:8443/stream/pro/aac/64/8</location>
+    <bitrate>64</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>HIP HOP RADIO</title>
@@ -8443,6 +8534,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Владивосток FM</title>
+    <genre>Танцевальная музыка</genre>
+    <location>http://vladfm.com:8000/vfm.web?1606485527512</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Диполь FM</title>
     <genre>Танцевальная музыка</genre>
     <location>https://icecast-sibinformburo.cdnvideo.ru/dipolfm</location>
@@ -8506,6 +8604,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Компас FM</title>
+    <genre>Танцевальная музыка</genre>
+    <location>https://radio.mil.by/live</location>
+    <bitrate>256</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Комсомольское радио</title>
     <genre>Танцевальная музыка</genre>
     <location>https://listen6.myradio24.com/speaker22</location>
@@ -8536,7 +8641,7 @@
   <entry type="iradio">
     <title>Мега FM</title>
     <genre>Танцевальная музыка</genre>
-    <location>https://s0.radioheart.ru:8000/RH23554</location>
+    <location>http://s0.radioheart.ru:8000/RH23554</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -8627,7 +8732,7 @@
   <entry type="iradio">
     <title>Радио Шторм</title>
     <genre>Танцевальная музыка</genre>
-    <location>https://www.live.shtorm.fm:8000/128</location>
+    <location>https://top.radiosolo.ru/radio/shtorm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -8940,6 +9045,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Dance Wave Radio</title>
+    <genre>Танцевальная музыка</genre>
+    <location>https://dancewave.online/dance.mp3</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Dancecore - Радио Рекорд</title>
     <genre>Танцевальная музыка</genre>
     <location>https://air.radiorecord.ru:805/dc_320</location>
@@ -8959,6 +9071,20 @@
     <location>https://sh.onweb.gr:7083/;</location>
     <bitrate>192</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Deep House - 101.ru</title>
+    <genre>Танцевальная музыка</genre>
+    <location>https://pub0302.101.ru:8443/stream/trust/mp3/128/173</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Delish Deep Radio</title>
+    <genre>Танцевальная музыка</genre>
+    <location>https://getradio.me/delishdeep</location>
+    <bitrate>64</bitrate>
+    <media-type>audio/aac</media-type>
   </entry>
   <entry type="iradio">
     <title>DFM</title>
@@ -9304,13 +9430,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Happy Radio</title>
-    <genre>Танцевальная музыка</genre>
-    <location>https://s11.ssl-stream.com/ssl/happyradio?mp=/live</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
     <title>House - 101.ru</title>
     <genre>Танцевальная музыка</genre>
     <location>https://pub0302.101.ru:8443/stream/trust/mp3/128/10</location>
@@ -9528,6 +9647,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>ONE FM</title>
+    <genre>Танцевальная музыка</genre>
+    <location>http://557e041d4bdc.sn.mynetname.net:8000/onefm</location>
+    <bitrate>320</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Party - Европа Плюс</title>
     <genre>Танцевальная музыка</genre>
     <location>https://europaplus.hostingradio.ru/epparty128.mp3</location>
@@ -9544,8 +9670,8 @@
   <entry type="iradio">
     <title>PRODj Radio</title>
     <genre>Танцевальная музыка</genre>
-    <location>https://live.prodjradio.net:8065/radio</location>
-    <bitrate>128</bitrate>
+    <location>http://live.prodjradio.net:8000/;?type=http</location>
+    <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -9596,6 +9722,13 @@
     <location>https://radio.omactiv.md:8443/om</location>
     <bitrate>128</bitrate>
     <media-type>audio/aac</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Thor Italia</title>
+    <genre>Танцевальная музыка</genre>
+    <location>https://diretta.radiothor.it:8000/radiothor.mp3?1606385457417</location>
+    <bitrate>192</bitrate>
+    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Radio XFM</title>
@@ -9750,13 +9883,6 @@
     <location>https://air.radiorecord.ru:805/trop_320</location>
     <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>UAFM</title>
-    <genre>Танцевальная музыка</genre>
-    <location>https://pub0202.101.ru:8443/stream/personal/aacp/64/791859</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>Vip House - Радио Рекорд</title>
@@ -9922,7 +10048,7 @@
   <entry type="iradio">
     <title>Радио Зорана</title>
     <genre>Фолк/Этно</genre>
-    <location>http://212.95.165.98:8001/;</location>
+    <location>https://top.radiosolo.ru/radio/zorana/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -10009,13 +10135,6 @@
     <location>https://radiosolo.ru/radio/slavmir/icecast.audio</location>
     <bitrate>96</bitrate>
     <media-type>audio/aacp</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>Тартип FM</title>
-    <genre>Фолк/Этно</genre>
-    <location>http://radio.tatmedia.com:8800/tartipfm128</location>
-    <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Татар Радиосы</title>
@@ -10141,7 +10260,7 @@
     <genre>Электронная музыка</genre>
     <location>http://46.105.180.202:8100/stream</location>
     <bitrate>128</bitrate>
-    <media-type>audio/mpeg</media-type>
+    <media-type>video/MP2T</media-type>
   </entry>
   <entry type="iradio">
     <title>Радио MUSICBOOM FM</title>
@@ -10219,6 +10338,13 @@
     <location>https://radiokrug.ru/radio/deep-solfm/icecast.audio</location>
     <bitrate>128</bitrate>
     <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Сочное радио</title>
+    <genre>Электронная музыка</genre>
+    <location>http://skycaster.ru/8110/stream</location>
+    <bitrate>64</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>ТРАНСЛЯЦИЯ Radio</title>
@@ -10347,6 +10473,13 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
+    <title>Dzhon Radio</title>
+    <genre>Электронная музыка</genre>
+    <location>https://i-radio.info:8090/stream</location>
+    <bitrate>128</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Electro - Радио Рекорд</title>
     <genre>Электронная музыка</genre>
     <location>https://air.radiorecord.ru:805/elect_320</location>
@@ -10356,7 +10489,7 @@
   <entry type="iradio">
     <title>Groove/Tribal - Радио Рекорд</title>
     <genre>Электронная музыка</genre>
-    <location>http://air.radiorecord.ru:805/groovetribal_320</location>
+    <location>https://air.radiorecord.ru:805/groovetribal_320</location>
     <bitrate>320</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
@@ -10540,7 +10673,7 @@
     <genre>Электронная музыка</genre>
     <location>http://85.234.59.191:8000/stream</location>
     <bitrate>196</bitrate>
-    <media-type>audio/aac</media-type>
+    <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
     <title>Royal DNB</title>
@@ -10589,6 +10722,13 @@
     <genre>Электронная музыка</genre>
     <location>http://radio.mixcult.net:8000/MixCult_256kbps</location>
     <bitrate>320</bitrate>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SputnikRadio</title>
+    <genre>Электронная музыка</genre>
+    <location>https://eapps-cs.herokuapp.com/http://31.134.186.227:8000/radio.mp3</location>
+    <bitrate>256</bitrate>
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
@@ -10676,13 +10816,6 @@
     <media-type>audio/mpeg</media-type>
   </entry>
   <entry type="iradio">
-    <title>Аъло Fm</title>
-    <genre>Юмор</genre>
-    <location>http://tabassum.uz:9000/alo_low</location>
-    <bitrate>64</bitrate>
-    <media-type>audio/aacp</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Классика Жанра - 101.Ru</title>
     <genre>Юмор</genre>
     <location>https://pub0302.101.ru:8443/stream/trust/mp3/128/21</location>
@@ -10723,6 +10856,13 @@
     <location>https://online.uniton.ru/uniton</location>
     <bitrate>192</bitrate>
     <media-type>audio/aac</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>A'lo-FM</title>
+    <genre>Юмор</genre>
+    <location>https://top.radiosolo.ru/radio/alo/icecast.audio</location>
+    <bitrate>64</bitrate>
+    <media-type>audio/aacp</media-type>
   </entry>
   <entry type="iradio">
     <title>Comedy Radio</title>
